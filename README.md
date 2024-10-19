@@ -15,5 +15,5 @@ Für das backend gibt es noch keinen Plan.
 
 # UI und aktuelle Aufgaben
 
-Die UIs und UI Vorschläge werden im **Ordner mockup** gesammelt. 
+Die UIs und UI Vorschläge werden im **Ordner src/assets/mockup** gesammelt. 
 Die aktuellen Aufgaben werden in der **TODO.js** festgehalten.
