@@ -12,7 +12,7 @@
 
 body {
     max-width: 480px;  
-    margin: 0 auto;
+    height: 100%;
   	
 }
 

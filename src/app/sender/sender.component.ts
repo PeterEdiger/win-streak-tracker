@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './sender.component.scss'
 })
 export class SenderComponent {
-
+  message = "Hello from Sender Component"
 }
